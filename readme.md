@@ -11,7 +11,7 @@ you can move inside the maze using arrow keys.
 ## step 1 — install msys2
 
 download:
-👉 [https://www.msys2.org/](https://www.msys2.org/)
+[https://www.msys2.org/](https://www.msys2.org/)
 
 install using default settings.
 
