@@ -193,6 +193,8 @@ concepts:
 
 each vertical pixel column shoots a ray into a 2d grid map to simulate a 3d view.
 
+---
+
 # 10. reference
 
 this project stands on the shoulders of this beautifully explained [guide](https://lodev.org/cgtutor/raycasting.html) by lode vandevenne.
