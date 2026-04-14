@@ -85,6 +85,7 @@ int main(int /*argc*/, char */*argv*/[])
   for(int i = 0; i < 8; i++) texture[i].resize(texWidth * texHeight);
 
   screen(screenWidth,screenHeight, 0, "Raycaster");
+  screen(400, 400, 1, "2D Map");
 
   //generate some textures
 #if 0
